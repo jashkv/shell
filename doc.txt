@@ -1,0 +1,22 @@
+# This file is related to a the question and their solution in shell
+
+exp01 - simple hello world program
+exp02 - list some local verible presented in shell
+exp03 - list and print asigned values
+exp04 - difference between single quots and double quots
+exp05 - checking liine orientation
+exp06 - to take input from user and print it on console
+exp07 - check the greatest number in between 2 number
+exp08 - check the greatest number amoung 3 number
+exp09 - check wether a number is negtive or positive
+exp10 - check the number divisability
+exp10.0 - checking number divisability
+exp10.1 - checking number divisability
+exp11 - check if the number is even and odd
+exp12 - check if the year is a leap year or not
+exp13 - check if the number is vowell or consonent
+exp14 - check if the input is  number or character or number
+exp15 - convert tempreatures
+exp16 - check if entered character is uppercase or lowercase\
+exp17 - change length
+exp18 - calculae area of triangle
